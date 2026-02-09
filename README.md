@@ -3,7 +3,7 @@
 Welcome to the technical assessment for the AI/ML Full-Stack position. This challenge is designed to evaluate your ability to build a modern, data-driven web application using **Supabase**, **Vercel**, and **Real-time** architecture.
 
 ## 📅 Submission & Deadline
-- **Deadline:** February 16, 2026 (23:59 UTC).
+- **Deadline:** February 16, 2026.
 - **The "Silent" Review:** Once you accept this challenge, your progress will be tracked automatically via this repository. You do not need to email us your progress.
 - **Final Submission:**
   1. Ensure your latest code is pushed to the `main` branch of **this** repository.
